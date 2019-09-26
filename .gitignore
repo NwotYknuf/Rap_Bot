@@ -1,0 +1,7 @@
+
+.vscode/settings.json
+./model_rapbot/**
+./output/*
+*.json
+*.h5
+*.txt
